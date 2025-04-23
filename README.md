@@ -15,7 +15,7 @@
 - 🛠 **Technologies Used**
 - 🔍 **Steps Involved**
 - 📌 **Key Insights**
-- 📋 **Conclusion**
+- 🎯 **Conclusion**
 
 ## 📋 Project Description
 The primary objective of this project was to harness the power of unsupervised learning to segment customers based on purchasing behavior from Myntra's vast transaction dataset. With over 500,000 transactions, the aim was to uncover hidden patterns, empower data-driven decision-making, and enhance personalized customer experiences.
@@ -112,7 +112,7 @@ This project aims to apply unsupervised machine learning to cluster customers ba
 
 ********************************************************************************************************************************************************************
 
-## 📋 Conclusion:
+## 🎯 Conclusion:
 
 This project demonstrates the power of unsupervised learning in customer segmentation. By identifying hidden patterns in Myntra's transaction data, the project:
 
