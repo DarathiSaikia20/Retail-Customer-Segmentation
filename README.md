@@ -82,24 +82,24 @@ This project aims to apply unsupervised machine learning to cluster customers ba
 ## 🔍 Steps Involved
 
 1. Data Cleaning & Preprocessing
- - Handled 136,534 missing values and removed 5,268 duplicates.
- - Filtered out invalid transactions (negative/zero quantity or price).
+  - Handled 136,534 missing values and removed 5,268 duplicates.
+  - Filtered out invalid transactions (negative/zero quantity or price).
 
 2. Data Type Conversion
- - Converted InvoiceDate to datetime and CustomerID to string.
+  - Converted InvoiceDate to datetime and CustomerID to string.
 
 3. Feature Engineering
- - Created TotalAmount, Recency, Frequency, Monetary, TenureDays, OrderRate, and AvgOrderValue.
+  - Created TotalAmount, Recency, Frequency, Monetary, TenureDays, OrderRate, and AvgOrderValue.
 
 4. Dimensionality Reduction
- - Applied PCA for visualization and efficiency.
+  - Applied PCA for visualization and efficiency.
 
 5. Modeling
- - Implemented and compared KMeans, Agglomerative Clustering, and DBSCAN.
- - Tuned DBSCAN parameters using k-distance graph.
+  - Implemented and compared KMeans, Agglomerative Clustering, and DBSCAN.
+  - Tuned DBSCAN parameters using k-distance graph.
 
 6. Evaluation
- - Silhouette Score used to assess cluster cohesion and separation.
+  - Silhouette Score used to assess cluster cohesion and separation.
 
 ********************************************************************************************************************************************************************
 
