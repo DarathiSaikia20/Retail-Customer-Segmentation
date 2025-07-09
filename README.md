@@ -3,7 +3,7 @@
 <p align="center"> 
 <img src="GIF/google play.gif" alt="Animated gif" height="282px">
 </p>
-![image alt](https://github.com/DarathiSaikia20/Retail-Customer-Segmentation/blob/main/Myntra.png?raw=true)
+
 
 ## 📚 Table Of Contents
 
